@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MC Server",
-    "currentPage": "index.html",
+    "currentPage": "more.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-white-label": true,
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.11.5",
     "screenshot": "screenshot.png"
   },
@@ -1512,6 +1512,29 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "HTMLCode": "<center>\n<a href=\"https://minecraftpocket-servers.com/server/93206/\"><img src=\"https://minecraftpocket-servers.com/server/93206/banners/half-banner-3.png\" border=\"0\"></a></center><center>\n\n<a href=\"https://minecraftpocket-servers.com/server/93206/\"><img src=\"https://minecraftpocket-servers.com/server/93206/banners/regular-banner-1.png\" border=\"0\"></a></center><center>\n<a href=\"https://minecraftpocket-servers.com/server/93206/\"><img src=\"https://minecraftpocket-servers.com/server/93206/banners/banner-1.png\" border=\"0\"></a></center><center>\n<a href=\"https://minecraftpocket-servers.com/server/93206/\"><img src=\"https://minecraftpocket-servers.com/server/93206/banners/leaderboard-1.png\" border=\"0\"></a></center>",
+            "hideOnPublish": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "HTMLCode": "<center>\n<a href=\"https://minecraftpocket-servers.com/server/93206/\"><img src=\"https://minecraftpocket-servers.com/server/93206/banners/half-banner-3.png\" border=\"0\"></a></center><center>\n\n<a href=\"https://minecraftpocket-servers.com/server/93206/\"><img src=\"https://minecraftpocket-servers.com/server/93206/banners/regular-banner-1.png\" border=\"0\"></a></center><center>\n<a href=\"https://minecraftpocket-servers.com/server/93206/\"><img src=\"https://minecraftpocket-servers.com/server/93206/banners/banner-1.png\" border=\"0\"></a></center><center>\n<a href=\"https://minecraftpocket-servers.com/server/93206/\"><img src=\"https://minecraftpocket-servers.com/server/93206/banners/leaderboard-1.png\" border=\"0\"></a></center>",
+          "alias": "witsec-custom-html",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "witsec-custom-html-block",
+          "_anchor": "witsec-custom-html-block-h"
         }
       ]
     },
