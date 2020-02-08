@@ -14,9 +14,10 @@
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/web/assets/gdpr-plugin/gdpr-styles.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/web/assets/gdpr-plugin/gdpr-styles.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/animatecss/animate.min.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
@@ -77,7 +78,7 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8"><p><strong>Q: Can I play using cellular?</strong></p><p>A: Yes, from the Minecraft main menu, go to settings &gt; profile &gt; "use cellular data"</p><p><strong>Q: Why can't I mine or build?</strong></p><p>A: There is currently a bug in the Minecraft server software that sets a user's default permission level to "visitor", which prevents them from mining and interacting with the world. This can be overcome but requires the user to log into the server at least once before the change can be implemented. If you have done this and still don't have permissions <u>48 hours later</u>, please contact me through <a href="index.html#form1-4">the form</a>.</p><p><strong>Q: Why did you make this server?</strong></p><p>A: I got bored one day and decided to.</p><p><strong>Q: Who are you?</strong></p><p>A: Do we really ever know who we truly are?</p><p><strong>Q: How do I join?</strong></p><p>A: If you couldn't find it earlier maybe you shouldn't..</p><p><strong>Q: Why Haven't I been whitelisted yet?</strong></p><p>A: Shouldn't you be studying?</p><p><strong>Q: What are the game rules?</strong></p><p>A: This is supposed to be a peaceful community server not an anarchy server. The world is autosaved so not only will you get banned, you will be humiliated like the clown you are because you would've left the world ultimately unaffected. You would not be a clown, for you are the whole circus. 🤡</p><p><strong>Q: Where's the Discord?</strong></p><p>A: I'm working on it lol</p><p><br></p><p>&gt; No I'm not giving you mod and no I'm not giving you stuff if you die.</p><p>&gt; Have more questions? Feel free to submit them on the form <a href="index.html#form1-4">here</a>.</p></div>
+            <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8"><p><a href="javascript:OpenModal(hourss)"></a><strong>Q: Can I play using cellular?</strong></p><p>A: Yes, from the Minecraft main menu, go to <em>settings </em>&gt;<em> profile </em>&gt;<em> "use cellular data"</em></p><p><strong>Q: Why can't I mine or build?</strong></p><p>A: There is currently a bug in the Minecraft server software that resets a user's permission level to "visitor", which prevents them from mining and interacting with the world. There is a workaround, but it requires the user to log into the server at least once before the change can be implemented. If you have joined and still don't have permissions <u><a href="javascript:OpenModal('hourss')" class="text-danger">after&nbsp;48 hours</a></u>, please contact me through <a href="index.html#form1-4">the form</a>.</p><p><strong>Q: Why did you make this server?</strong></p><p>A: I got bored one day and decided to.</p><p><strong>Q: Who are you?</strong></p><p>A: Do we really ever know who we truly are?</p><p><strong>Q: How do I join?</strong></p><p>A: If you couldn't find it earlier maybe you shouldn't..</p><p><strong>Q: Why Haven't I been whitelisted yet?</strong></p><p>A: Shouldn't you be studying?</p><p><strong>Q: What are the game rules?</strong></p><p>A: This is supposed to be a peaceful community server not an anarchy server. The world is autosaved so not only will you get banned, you will be humiliated like the clown you are because you would've left the world ultimately unaffected. You would not be a clown, for you are the whole circus. 🤡</p><p><strong>Q: Where's the Discord?</strong></p><p>A: I'm working on it lol</p><p><br></p><p>&gt; No I'm not giving you mod and no I'm not giving you stuff if you die.</p><p>&gt; Have more questions? Feel free to submit them on the form <a href="index.html#form1-4">here</a>.</p></div>
         </div>
     </div>
 </section>
@@ -104,17 +105,72 @@
     </div>
 </section>
 
+<section class="mbr-section" id="witsec-modal-window-block-k" data-rv-view="18">
+
+	<style>
+	/* Let's not animate the contents of modal windows */
+	.no-anim {
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+	</style>
+
+	
+	
+	<div><div class="modal fade" id="hourss" tabindex="-1" role="dialog" aria-labelledby="hourssLabel" aria-hidden="true">  <div class="modal-dialog  " style="height:auto" role="document">    <div class="modal-content"><div class="modal-header">  <h5 class="no-anim modal-title" id="hourssLabel">I know, but..</h5>  <a href="#" class="no-anim close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a></div><div class="modal-body" id="hourss_body">I got other things to do sometimes</div><div class="modal-footer"><div class="mbr-section-btn"><a href="#" class="no-anim btn btn-secondary display-4" data-dismiss="modal">I get it fam</a></div></div>    </div>  </div></div><script>document.addEventListener("DOMContentLoaded", function() {  $("#hourss").on("hidden.bs.modal", function () {    var html = $( "#hourss_body" ).html();    $( "#hourss_body" ).empty();    $( "#hourss_body" ).append(html);  })});</script></div>
+
+	<script>
+	if (typeof OpenModal === 'undefined') {
+		OpenModal = function(modalName) {
+			if ($('#' + modalName).length)
+				$('#' + modalName).modal('show');
+			else
+				alert("Sorry, but there is no modal for " + modalName);
+		}
+	}
+
+	function modalSetCookie(cname, cvalue, exdays) {
+		var d = new Date();
+		d.setTime(d.getTime() + (exdays*24*60*60*1000));
+		var expires = "expires="+ d.toUTCString();
+		document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+	}
+
+	function modalGetCookie(cname) {
+		var name = cname + "=";
+		var decodedCookie = decodeURIComponent(document.cookie);
+		var ca = decodedCookie.split(';');
+		for(var i = 0; i <ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return "";
+	}
+	</script>
+
+</section>
+
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
-  <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/dropdown/js/nav-dropdown.js"></script>
   <script src="assets/dropdown/js/navbar-dropdown.js"></script>
   <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
   
   
-</body>
+  <input name="animation" type="hidden">
+  </body>
 </html>

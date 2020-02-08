@@ -7,11 +7,11 @@
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#149dcc",
-        "secondaryColor": "#ff3366",
-        "successColor": "#F7ED4A",
-        "infoColor": "#82786E",
-        "warningColor": "#879A9F",
-        "dangerColor": "#B1A374",
+        "secondaryColor": "#0f7699",
+        "successColor": "#cc1414",
+        "infoColor": "#cccccc",
+        "warningColor": "#f7ed4a",
+        "dangerColor": "#767676",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
         "display1Size": 4.25,
@@ -24,7 +24,7 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
@@ -50,7 +50,7 @@
       "text": "Please don't spam me"
     },
     "witsec-white-label": true,
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "4.11.5",
     "screenshot": "screenshot.png"
   },
@@ -532,7 +532,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Q: Can I play using cellular?</b></p><p>A: Yes, from the Minecraft main menu, go to settings &gt; profile &gt; \"use cellular data\"</p><p><b>Q: Why can't I mine or build?</b></p><p>A: There is currently a bug in the Minecraft server software that sets a user's default permission level to \"visitor\", which prevents them from mining and interacting with the world. This can be overcome but requires the user to log into the server at least once before the change can be implemented. If you have done this and still don't have permissions <u>48 hours later</u>, please contact me through <a href=\"index.html#form1-4\">the form</a>.</p><p><b>Q: Why did you make this server?</b></p><p>A: I got bored one day and decided to.</p><p><b>Q: Who are you?</b></p><p>A: Do we really ever know who we truly are?</p><p><b>Q: How do I join?</b></p><p>A: If you couldn't find it earlier maybe you shouldn't..</p><p><b>Q: Why Haven't I been whitelisted yet?</b></p><p>A: Shouldn't you be studying?</p><p><b>Q: What are the game rules?</b></p><p>A: This is supposed to be a peaceful community server not an anarchy server. The world is autosaved so not only will you get banned, you will be humiliated like the clown you are because you would've left the world ultimately unaffected. You would not be a clown, for you are the whole circus. 🤡</p><p><b>Q: Where's the Discord?</b></p><p>A: I'm working on it lol</p><p><br></p><p>&gt; No I'm not giving you mod and no I'm not giving you stuff if you die.</p><p>&gt; Have more questions? Feel free to submit them on the form <a href=\"index.html#form1-4\">here</a>.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><a href=\"javascript:OpenModal(hourss)\"></a><b>Q: Can I play using cellular?</b></p><p>A: Yes, from the Minecraft main menu, go to <i>settings </i>&gt;<i> profile </i>&gt;<i> \"use cellular data\"</i></p><p><b>Q: Why can't I mine or build?</b></p><p>A: There is currently a bug in the Minecraft server software that resets a user's permission level to \"visitor\", which prevents them from mining and interacting with the world. There is a workaround, but it requires the user to log into the server at least once before the change can be implemented. If you have joined and still don't have permissions <u><a href=\"javascript:OpenModal('hourss')\" class=\"text-danger\">after&nbsp;48 hours</a></u>, please contact me through <a href=\"index.html#form1-4\">the form</a>.</p><p><b>Q: Why did you make this server?</b></p><p>A: I got bored one day and decided to.</p><p><b>Q: Who are you?</b></p><p>A: Do we really ever know who we truly are?</p><p><b>Q: How do I join?</b></p><p>A: If you couldn't find it earlier maybe you shouldn't..</p><p><b>Q: Why Haven't I been whitelisted yet?</b></p><p>A: Shouldn't you be studying?</p><p><b>Q: What are the game rules?</b></p><p>A: This is supposed to be a peaceful community server not an anarchy server. The world is autosaved so not only will you get banned, you will be humiliated like the clown you are because you would've left the world ultimately unaffected. You would not be a clown, for you are the whole circus. 🤡</p><p><b>Q: Where's the Discord?</b></p><p>A: I'm working on it lol</p><p><br></p><p>&gt; No I'm not giving you mod and no I'm not giving you stuff if you die.</p><p>&gt; Have more questions? Feel free to submit them on the form <a href=\"index.html#form1-4\">here</a>.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rPMtotZjmw",
           "_anchor": "content1-c",
           "_protectedParams": [],
@@ -600,6 +600,38 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "modalName": "hourss",
+            "modalSize": "medium",
+            "modalHeader": true,
+            "modalTitle": "I know, but..",
+            "modalBody": "I got other things to do sometimes",
+            "modalBodyHTML": false,
+            "modalFooter": true,
+            "modalCloseBtn": true,
+            "modalCloseText": "I get it fam",
+            "modalLink": false,
+            "modalLinkUrl": "https://mobirise.com/",
+            "modalLinkText": "Visit Mobirise",
+            "modalLinkNewWindow": true,
+            "modalVerticalCenter": false,
+            "modalFade": true,
+            "modalAutoOpen": false,
+            "modalAutoOpenOnce": true,
+            "modalAutoOpenGDPR": true,
+            "modalAutoOpenDelay": 0
+          },
+          "modalTest": "<div class=\"mbr-section-btn\">\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#hourss\">Preview hourss</a>\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#hourss-howtouse\">How to use hourss</a>\n</div>\n<div class=\"modal fade\" id=\"hourss-howtouse\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"hourss-howtouseLabel\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\" role=\"document\" style=\"height:auto\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <h5 class=\"modal-title\" id=\"hourss-howtouseLabel\">How to use?</h5>\n        <a href=\"\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a>\n      </div>\n      <div class=\"modal-body\">\n        Using your new modal is very easy. Simply create a new link, then click the \"...\" tab and enter the following as custom URL:<br /><br />\n        <code>javascript:OpenModal('hourss')</code>\n      </div>\n      <div class=\"modal-footer\">\n        <div class=\"mbr-section-btn\"><a href=\"#\" class=\"btn btn-secondary display-4\" data-dismiss=\"modal\">Close</a></div>\n      </div>\n    </div>\n  </div>\n</div>",
+          "modalBody": "I got other things to do sometimes",
+          "alias": "witsec-modal-window",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "witsec-modal-window-block",
+          "_anchor": "witsec-modal-window-block-k",
+          "modalWindow": "<div class=\"modal fade\" id=\"hourss\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"hourssLabel\" aria-hidden=\"true\">  <div class=\"modal-dialog  \" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"hourssLabel\">I know, but..</h5>  <a href=\"#\" class=\"no-anim close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"hourss_body\">I got other things to do sometimes</div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"#\" class=\"no-anim btn btn-secondary display-4\" data-dismiss=\"modal\">I get it fam</a></div></div>    </div>  </div></div><script>document.addEventListener(\"DOMContentLoaded\", function() {  $(\"#hourss\").on(\"hidden.bs.modal\", function () {    var html = $( \"#hourss_body\" ).html();    $( \"#hourss_body\" ).empty();    $( \"#hourss_body\" ).append(html);  })});</script>"
         }
       ]
     },
@@ -2034,11 +2066,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#f7ed4a\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><b>\n                    IMPORTANT:<br></b>There is currently a bug in the Minecraft server software that sets a user's default permission level to \"visitor\", which prevents them from mining and interacting with the world. This can be overcome but requires the user to log into the server at least once before the change can be implemented.</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "rPS96CGTQG",
+          "_anchor": "content9-j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-j"
+          "_params": {}
         },
         {
           "_params": {
