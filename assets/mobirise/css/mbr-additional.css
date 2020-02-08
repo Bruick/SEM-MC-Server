@@ -2412,6 +2412,29 @@ section.lazy-placeholder:after {
 .cid-rPMojvTz5Q .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-rPS96CGTQG {
+  padding-top: 90px;
+  padding-bottom: 30px;
+  background-color: #f7ed4a;
+}
+.cid-rPS96CGTQG .line {
+  background-color: #232323;
+  color: #232323;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rPS96CGTQG .section-text {
+  padding: 2rem 0;
+}
+.cid-rPS96CGTQG .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rPS96CGTQG .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rPMosAXNGv {
   padding-top: 15px;
   padding-bottom: 90px;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MC Server",
-    "currentPage": "more.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -27,7 +27,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#cc1414"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.5",
@@ -48,7 +50,7 @@
       "text": "Please don't spam me"
     },
     "witsec-white-label": true,
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "4.11.5",
     "screenshot": "screenshot.png"
   },
@@ -530,7 +532,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><a href=\"index.html#form1-4\"></a><b>Q: Why did you make this server?</b></p><p>A: I got bored one day and decided to.</p><p><b>Q: Who are you?</b></p><p>A: Do we really ever know who we truly are?</p><p><b>Q: How do I join?</b></p><p>A: If you couldn't find it earlier maybe you shouldn't..</p><p><b>Q: Why Haven't I been whitelisted yet?</b></p><p>A: Shouldn't you be studying?</p><p><b>Q: What are the game rules?</b></p><p>A: This is supposed to be a peaceful community server not an anarchy server. The world is autosaved so not only will you get banned, you will be humiliated like the clown you are because you would've left the world ultimately unaffected.&nbsp;</p><p><b>Q: Where's the Discord?</b></p><p>A: I'm working on it lol</p><p><br></p><p>&gt; No I'm not giving you mod and no I'm not giving you stuff if you die.</p><p>&gt; Have more questions? Feel free to submit them on the form <a href=\"index.html#form1-4\">here</a>.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Q: Can I play using cellular?</b></p><p>A: Yes, from the Minecraft main menu, go to settings &gt; profile &gt; \"use cellular data\"</p><p><b>Q: Why can't I mine or build?</b></p><p>A: There is currently a bug in the Minecraft server software that sets a user's default permission level to \"visitor\", which prevents them from mining and interacting with the world. This can be overcome but requires the user to log into the server at least once before the change can be implemented. If you have done this and still don't have permissions <u>48 hours later</u>, please contact me through <a href=\"index.html#form1-4\">the form</a>.</p><p><b>Q: Why did you make this server?</b></p><p>A: I got bored one day and decided to.</p><p><b>Q: Who are you?</b></p><p>A: Do we really ever know who we truly are?</p><p><b>Q: How do I join?</b></p><p>A: If you couldn't find it earlier maybe you shouldn't..</p><p><b>Q: Why Haven't I been whitelisted yet?</b></p><p>A: Shouldn't you be studying?</p><p><b>Q: What are the game rules?</b></p><p>A: This is supposed to be a peaceful community server not an anarchy server. The world is autosaved so not only will you get banned, you will be humiliated like the clown you are because you would've left the world ultimately unaffected. You would not be a clown, for you are the whole circus. 🤡</p><p><b>Q: Where's the Discord?</b></p><p>A: I'm working on it lol</p><p><br></p><p>&gt; No I'm not giving you mod and no I'm not giving you stuff if you die.</p><p>&gt; Have more questions? Feel free to submit them on the form <a href=\"index.html#form1-4\">here</a>.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rPMtotZjmw",
           "_anchor": "content1-c",
           "_protectedParams": [],
@@ -1058,7 +1060,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>\n                    You shouldn't be here.</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>\n                    <a href=\"https://minecraftpocket-servers.com/server/93206/\">https://minecraftpocket-servers.com/server/93206/</a></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "rPMrhr934v",
           "_anchor": "content9-a",
           "_protectedParams": [],
@@ -2005,10 +2007,44 @@
           "_params": {}
         },
         {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#f7ed4a\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><b>\n                    IMPORTANT:<br></b>There is currently a bug in the Minecraft server software that sets a user's default permission level to \"visitor\", which prevents them from mining and interacting with the world. This can be overcome but requires the user to log into the server at least once before the change can be implemented.</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_cid": "rPS96CGTQG",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content9-j"
+        },
+        {
           "_params": {
-            "HTMLCode": "<center>\n<h3>Server Status</h3>\n<div style=\"position:relative;width: 650px;height: 357px;background-color:white\">\n    <div>\n        <a href=\"#\">\n<div style=\"border: 0px solid #D5CC5A; overflow: hidden; margin: 15px auto; max-width: 575px;\">\n<iframe scrolling=\"no\" src=\"https://minecraftpocket-servers.com/server/93206/#.XjzIFrdAvbg.link\" style=\"border: 0px none; margin-left: -70px; height: 925px; margin-top: -568px; width: 650px;\">\n</iframe>\n</div></a>\n    </div>\n    <div style=\"position: absolute;top:0;left:0;width: 650px;height:357px;background-color: blue;z-index:2;opacity:0.0;filter: alpha(opacity = 100)\"></div>\n</div>\n</center>",
+            "HTMLCode": "<center>\n<h3>Server Status</h3>\n<div style=\"position:relative;width: 655px;height: 360px;background-color:white\">\n    <div>\n        <a href=\"#\">\n<div style=\"border: 0px solid #D5CC5A; overflow: hidden; margin: 15px auto; max-width: 575px;\">\n<iframe scrolling=\"no\" src=\"https://minecraftpocket-servers.com/server/93206/#.XjzIFrdAvbg.link\" style=\"border: 0px none; margin-left: -70px; height: 957px; margin-top: -600px; width: 650px;\">\n</iframe>\n</div></a>\n    </div>\n    <div style=\"position: absolute;top:0;left:0;width: 655px;height:360px;background-color: blue;z-index:2;opacity:0.0;filter: alpha(opacity = 100)\"></div>\n</div>\n</center>",
             "hideOnPublish": false,
-            "paddingTop": "6",
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -2019,7 +2055,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<center>\n<h3>Server Status</h3>\n<div style=\"position:relative;width: 650px;height: 357px;background-color:white\">\n    <div>\n        <a href=\"#\">\n<div style=\"border: 0px solid #D5CC5A; overflow: hidden; margin: 15px auto; max-width: 575px;\">\n<iframe scrolling=\"no\" src=\"https://minecraftpocket-servers.com/server/93206/#.XjzIFrdAvbg.link\" style=\"border: 0px none; margin-left: -70px; height: 925px; margin-top: -568px; width: 650px;\">\n</iframe>\n</div></a>\n    </div>\n    <div style=\"position: absolute;top:0;left:0;width: 650px;height:357px;background-color: blue;z-index:2;opacity:0.0;filter: alpha(opacity = 100)\"></div>\n</div>\n</center>",
+          "HTMLCode": "<center>\n<h3>Server Status</h3>\n<div style=\"position:relative;width: 655px;height: 360px;background-color:white\">\n    <div>\n        <a href=\"#\">\n<div style=\"border: 0px solid #D5CC5A; overflow: hidden; margin: 15px auto; max-width: 575px;\">\n<iframe scrolling=\"no\" src=\"https://minecraftpocket-servers.com/server/93206/#.XjzIFrdAvbg.link\" style=\"border: 0px none; margin-left: -70px; height: 957px; margin-top: -600px; width: 650px;\">\n</iframe>\n</div></a>\n    </div>\n    <div style=\"position: absolute;top:0;left:0;width: 655px;height:360px;background-color: blue;z-index:2;opacity:0.0;filter: alpha(opacity = 100)\"></div>\n</div>\n</center>",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"
