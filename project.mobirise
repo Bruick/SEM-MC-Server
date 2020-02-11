@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MC Server",
-    "currentPage": "vip.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1108,7 +1108,7 @@
         "main": true,
         "title": "SEM MC - Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<script data-ad-client=\"ca-pub-4839509906957375\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
         "footer_custom": "",
         "html_before": ""
       },
