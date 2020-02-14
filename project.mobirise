@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MC Server",
-    "currentPage": "faq.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1573,7 +1573,7 @@
         },
         {
           "_params": {
-            "HTMLCode": "<center>\n<h3>Server Status</h3>\n<div style=\"position:relative;width: 655px;height: 360px;background-color:white\">\n    <div>\n        <a href=\"#\">\n<div style=\"border: 0px solid #D5CC5A; overflow: hidden; margin: 15px auto; max-width: 575px;\">\n<iframe scrolling=\"no\" src=\"https://minecraftpocket-servers.com/server/93244/\" style=\"border: 0px none; margin-left: -70px; height: 957px; margin-top: -600px; width: 650px;\">\n</iframe>\n</div></a>\n    </div>\n    <div style=\"position: absolute;top:0;left:0;width: 655px;height:360px;background-color: blue;z-index:2;opacity:0.0;filter: alpha(opacity = 100)\"></div>\n</div>\n</center>",
+            "HTMLCode": "<center>\n<h3>Server Status</h3>\n<div style=\"position:relative;width: 655px;height: 395px;background-color:white\">\n    <div>\n        <a href=\"#\">\n<div style=\"border: 0px solid #D5CC5A; overflow: hidden; margin: 15px auto; max-width: 575px;\">\n<iframe scrolling=\"no\" src=\"https://minecraftpocket-servers.com/server/93244/\" style=\"border: 0px none; margin-left: -70px; height: 920px; margin-top: -530px; width: 650px;\">\n</iframe>\n</div></a>\n    </div>\n    <div style=\"position: absolute;top:0;left:0;width: 655px;height:395px;background-color: blue;z-index:2;opacity:0.0;filter: alpha(opacity = 100)\"></div>\n</div>\n</center>",
             "hideOnPublish": false,
             "paddingTop": "1",
             "paddingBottom": 2,
@@ -1586,7 +1586,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<center>\n<h3>Server Status</h3>\n<div style=\"position:relative;width: 655px;height: 360px;background-color:white\">\n    <div>\n        <a href=\"#\">\n<div style=\"border: 0px solid #D5CC5A; overflow: hidden; margin: 15px auto; max-width: 575px;\">\n<iframe scrolling=\"no\" src=\"https://minecraftpocket-servers.com/server/93244/\" style=\"border: 0px none; margin-left: -70px; height: 957px; margin-top: -600px; width: 650px;\">\n</iframe>\n</div></a>\n    </div>\n    <div style=\"position: absolute;top:0;left:0;width: 655px;height:360px;background-color: blue;z-index:2;opacity:0.0;filter: alpha(opacity = 100)\"></div>\n</div>\n</center>",
+          "HTMLCode": "<center>\n<h3>Server Status</h3>\n<div style=\"position:relative;width: 655px;height: 395px;background-color:white\">\n    <div>\n        <a href=\"#\">\n<div style=\"border: 0px solid #D5CC5A; overflow: hidden; margin: 15px auto; max-width: 575px;\">\n<iframe scrolling=\"no\" src=\"https://minecraftpocket-servers.com/server/93244/\" style=\"border: 0px none; margin-left: -70px; height: 920px; margin-top: -530px; width: 650px;\">\n</iframe>\n</div></a>\n    </div>\n    <div style=\"position: absolute;top:0;left:0;width: 655px;height:395px;background-color: blue;z-index:2;opacity:0.0;filter: alpha(opacity = 100)\"></div>\n</div>\n</center>",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"
