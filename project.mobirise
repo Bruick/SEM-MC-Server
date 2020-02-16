@@ -1128,7 +1128,7 @@
         },
         {
           "_params": {
-            "HTMLCode": "<center><iframe src=\"https://disweb.dashflo.net/channels/677552455558627369/677552527553855488\" height=\"600\" width=\"800\"></iframe></center>\n\n ",
+            "HTMLCode": "<center><iframe src=\"https://disweb.dashflo.net/channels/677552455558627369/677552527553855488\" height=\"650\" width=\"800\"></iframe></center>\n\n ",
             "hideOnPublish": false,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1141,7 +1141,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<center><iframe src=\"https://disweb.dashflo.net/channels/677552455558627369/677552527553855488\" height=\"600\" width=\"800\"></iframe></center>\n\n ",
+          "HTMLCode": "<center><iframe src=\"https://disweb.dashflo.net/channels/677552455558627369/677552527553855488\" height=\"650\" width=\"800\"></iframe></center>\n\n ",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"
