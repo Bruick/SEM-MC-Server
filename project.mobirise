@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MC Server",
-    "currentPage": "upgrade.html",
+    "currentPage": "faq.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
   "pages": {
     "faq.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Have a question? Answer it here.",
         "title": "SEM MC - FAQ's",
         "order": 4
       },
@@ -635,7 +635,7 @@
     },
     "vip.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "You shouldn't be here...",
         "title": "SEM MC - VIP",
         "order": 2
       },
@@ -1150,7 +1150,7 @@
       "settings": {
         "main": true,
         "title": "SEM MC - Home",
-        "meta_descr": "",
+        "meta_descr": "Welcome to the SEM Minecraft Server!",
         "header_custom": "<script data-ad-client=\"ca-pub-4839509906957375\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
         "footer_custom": "",
         "html_before": ""
@@ -1682,7 +1682,7 @@
     },
     "updates.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "Information about the server's latest changes.",
         "title": "SEM MC - Updates",
         "order": 3,
         "header_custom": "<!--mc-server-->",
@@ -2244,7 +2244,7 @@
     },
     "upgrade.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "Help the server.",
         "title": "SEM MC - Upgrades",
         "order": 1
       },
